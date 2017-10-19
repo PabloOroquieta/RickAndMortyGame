@@ -1,1 +1,2 @@
 # RickAndMortyGame
+VERY IMPORTANT: OPEN IN FIREFOX
